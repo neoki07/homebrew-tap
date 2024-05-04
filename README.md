@@ -7,18 +7,18 @@ This is the repository for neoki's Homebrew tap.
 To add the tap and install a package:
 
 ```sh
-brew tap neokidev/tap
+brew tap ne-oki/tap
 brew install <package>
 ```
 
 or to install a package directly:
 
 ```sh
-brew install neokidev/tap/<package>
+brew install ne-oki/tap/<package>
 ```
 
 ## Available Formulae
 
-| Package                                  | Description                                                                     |
-| ---------------------------------------- | ------------------------------------------------------------------------------- |
-| [git-co](https://github.com/neokidev/git-co) | A CLI tool for branch switching by providing a selection-based checkout process |
+| Package                                    | Description                                                                     |
+| ------------------------------------------ | ------------------------------------------------------------------------------- |
+| [git-co](https://github.com/ne-oki/git-co) | A CLI tool for branch switching by providing a selection-based checkout process |
