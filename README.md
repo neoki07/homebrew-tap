@@ -19,6 +19,6 @@ brew install ne-oki/tap/<package>
 
 ## Available Formulae
 
-| Package                                    | Description                                                                     |
-| ------------------------------------------ | ------------------------------------------------------------------------------- |
-| [git-co](https://github.com/ne-oki/git-co) | A CLI tool for branch switching by providing a selection-based checkout process |
+| Package                                  | Description                                                           |
+| ---------------------------------------- | --------------------------------------------------------------------- |
+| [gibra](https://github.com/ne-oki/gibra) | A command-line tool that enables interactive branch selection for git |
