@@ -7,18 +7,18 @@ This is the repository for neoki's Homebrew tap.
 To add the tap and install a package:
 
 ```sh
-brew tap neokidev/tap
+brew tap neoki07/tap
 brew install <package>
 ```
 
 or to install a package directly:
 
 ```sh
-brew install neokidev/tap/<package>
+brew install neoki07/tap/<package>
 ```
 
 ## Available Formulae
 
-| Package                                    | Description                                                           |
-| ------------------------------------------ | --------------------------------------------------------------------- |
-| [gibra](https://github.com/neokidev/gibra) | A command-line tool that enables interactive branch selection for git |
+| Package                                   | Description                                                           |
+| ----------------------------------------- | --------------------------------------------------------------------- |
+| [gibra](https://github.com/neoki07/gibra) | A command-line tool that enables interactive branch selection for git |
